@@ -14,3 +14,15 @@ git rebase — Moves or reapplies your commits on top of another branch to creat
 
 git fetch — Downloads the latest changes from a remote repository without merging them into your current branch.
 
+git add — Adds changes to the staging area so they can be committed.
+
+git status — Shows the current state of your working directory and tells you which files have been modified, staged, or are untracked.
+
+git log — Shows the history of commits in the repository.
+
+git push — Uploads your local commits to a remote repository.
+-u <remote> <branch> — Sets the remote branch as the upstream branch, so future git push and git pull commands can be used without specifying the remote and branch.
+Example: git push -u origin lesson2
+
+git diff — Shows the differences between your current changes and the last committed version.
+
