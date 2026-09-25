@@ -1,0 +1,16 @@
+git commit — Saves your staged changes as a new commit. No arguments are required if you have already staged your changes.
+
+git branch — Creates a new branch. Example: `git branch lesson2`
+
+git checkout — Switches to another branch. Example: `git checkout lesson2`
+
+git pull — Downloads changes from a remote repository and integrates them into your current branch.
+
+git push — Uploads your local commits to a remote repository.
+
+git merge — Combines the changes from one branch into another branch.
+
+git rebase — Moves or reapplies your commits on top of another branch to create a linear history.
+
+git fetch — Downloads the latest changes from a remote repository without merging them into your current branch.
+
